@@ -5,7 +5,7 @@
 An AI-powered financial management platform that helps you track, analyze, and optimize your spending with real-time insights
 It leverages cutting-edge technologies like React, Next.js, and Artificial Intelligence to provide a user-friendly and comprehensive financial tool.
 
-[Site](https://ai-finance-platform.vercel.app/)
+[Site](https://ai-finance-platform-sxidsvit.vercel.app/)
 
 ## Target Audience
 
@@ -57,7 +57,10 @@ This platform is targeted towards individual users to let them act with greater 
 
 ![]()<img src="tables.png" width="450" height="360" style="display: block; margin-left:100px ;"> 
 
-**Configuration:**  *Make sure to create a `.env` file with following variables*
+---
+<br />
+
+ *Configuration: Make sure to create a `.env` file with following variables*
 
 ```js
 DATABASE_URL=
@@ -79,18 +82,19 @@ ARCJET_KEY=
 
 ## Getting Started
 
-1. Visit the AI Finance Platform website: [Site](https://ai-finance-platform.vercel.app/)
+1. Visit the AI Finance Platform website: [Site](https://ai-finance-platform-sxidsvit.vercel.app/)
 2. Create an account using the secure sign-up process.
 3. Explore the platform's features and functionalities to familiarize yourself with its offerings.
 
 
-##### Contact:
+## Contact:
 
 [<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/sergiy-antonyuk/
 
+---
 
-## Acknowledgements
+##### Acknowledgements
 
-A special thanks to [you](https://www.youtube.com/@GreatStackDev) for your invaluable contributions and inspiration.
+*A special thanks to [you](https://www.youtube.com/@GreatStackDev) for your invaluable contributions and inspiration.*
