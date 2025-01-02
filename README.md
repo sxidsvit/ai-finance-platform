@@ -1,11 +1,43 @@
-# Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI Tutorial 🔥🔥
-## https://youtu.be/egS6fnZAdzk
+# AI Fianace Platform 
 
-<img width="1470" alt="Screenshot 2024-12-10 at 9 45 45 AM" src="https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432">
+### Full Stack site build with React 19, Next JS 15,  Tailwind CSS,  Shadcn UI, Supabase, Prisma, Clerk Authentication, Inngest, Arcjet . 
 
-### Make sure to create a `.env` file with following variables -
+[Site](https://aifinance-platform.vercel.app/)
 
-```
+---
+
+![]()<img src="demo.gif" alt="Table" width="600" height="450" style="display: block; margin-left:100px ;"> 
+
+---
+
+## Core Functionality
+
+*The app provides a user-friendly interface  through the following key features*
+
+- User Authentication: Securely sign in and manage your account 
+
+
+## Tech Stack
+
+**Frontend (Client-Side):**
+
+- **Next.js 15:** Leverage the power of Next.js for a robust and performant frontend foundation.
+- **Tailwind CSS & Shadcn UI:** Craft a visually appealing and responsive user interface with the aid of Tailwind CSS and Schadcn UI components.
+- **Clerk:** Simplify user authentication and authorization with Clerk's comprehensive features.
+- **ArcJet:** A developer-first approach to **security**: bot detection, rate limiting, email validation, attack protection & data redaction.
+- **Inngest:** A powerful platform for building reliable and scalable backend systems, providing developers with simple APIs and SDKs to manage asynchronous tasks, orchestration of business processes and control of functions without the need to manage complex infrastructure.
+- **Zod, Rechart, date-fns:** Zod for data validation, Rechart for data visualization, and date-fns for effective date and time manipulation.
+
+**Backend (Server-Side):**
+
+- **Supabase & PostgreSQL:** Supabase is an open source Firebase alternative and PostgreSQL is robust database management. 
+- **Prisma:** Streamline data access and interactions with  PostgreSQL database using Prisma.
+
+![]()<img src="tables.png" width="450" height="360" style="display: block; margin-left:100px ;"> 
+
+**Configuration:**  *Make sure to create a `.env` file with following variables*
+
+```js
 DATABASE_URL=
 DIRECT_URL=
 
